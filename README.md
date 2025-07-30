@@ -1,4 +1,4 @@
-# **KoinX Cryptocurrency Data Backend**
+# **Cryptocurrency Data Backend**
 
 ## _Project Overview_
 
